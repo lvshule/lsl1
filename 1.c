@@ -178,5 +178,6 @@ int main(int argc,char* argv[])
 #endif 
 	printf("hello,world\n");
 	printf("after parse1111, name = %s,id = %s\n",book->bookname,book->bookid);
+	printf("this is master version2.\n");
 	return 0;
 } 
