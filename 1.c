@@ -30,6 +30,8 @@ enum ERR_ID
 	ERR_PRASE_IDCHAR
 };
 
+//This is a debug message.
+
 const char *err2str(int errcode)
 {
 	switch(errcode)
